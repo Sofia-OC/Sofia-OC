@@ -31,6 +31,6 @@ I’m currently learning Web Development. I am expanding my knowledge in both fr
 </span>
 
 ## 📫 Reach out to me at:
-<a href="sofia-199906@hotmail.com"> sofia-199906@hotmail.com </a>
-<a href="https://www.linkedin.com/in/sofia-noc/"> linkedIn </a>
+- <a href="sofia-199906@hotmail.com" target="_blank"> sofia-199906@hotmail.com </a>
+- <a href="https://www.linkedin.com/in/sofia-noc/" target="_blank"> linkedIn </a>
   
