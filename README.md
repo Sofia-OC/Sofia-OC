@@ -31,13 +31,6 @@ I’m currently learning Web Development. I am expanding my knowledge in both fr
 </span>
 
 ## 📫 Reach out to me at:
-<a href="sofia.199906@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="sofia-199906@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/sofia-noc/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="sofia-199906@hotmail.com"> sofia-199906@hotmail.com </a>
+<a href="https://www.linkedin.com/in/sofia-noc/"> linkedIn </a>
   
