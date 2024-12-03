@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m currently learning Web Development. I am expanding my knowledge in both front-end and back-end development. I love to learn and build productive, innovative and creative new things.
+I’m currently learning Web Development. I am expanding my knowledge in both front-end and back-end development.
 - 🌱 I’m currently learning ...
   - Node.js
   - Python
@@ -24,10 +24,11 @@ I’m currently learning Web Development. I am expanding my knowledge in both fr
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 </span>
 
-<h4> Tools </h4>
+<h4> Tools and Tecnologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 ## 📫 Reach out to me at:
