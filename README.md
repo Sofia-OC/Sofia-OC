@@ -5,6 +5,7 @@
 I’m currently learning Web Development. I am expanding my knowledge in both front-end and back-end development.
 - 🌱 I’m currently learning ...
   - Node.js
+  - React
   - Python
 - ✔ Ask me about anything, I am happy to help
 - 💜 Outside tech, i love 🎵 listening to music, 📖 reading books and 🎮 playing videogames.
