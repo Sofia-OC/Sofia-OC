@@ -3,7 +3,7 @@
 ## About me
 
 I’m currently learning Web Development. I am expanding my knowledge in both front-end and back-end development.
-- 🌱 I’m currently learning ...
+- 🌱 Currently focused on learning...
   - React
   - Python
 - ✔ Ask me about anything, I am happy to help
